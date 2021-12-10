@@ -173,8 +173,3 @@ def injury_v_killed():
     plt.ylabel('Occurrences')
     plt.legend()
     plt.savefig('Project\inj2.png')
-
-safety_features()
-caused_by()
-intersections()
-injury_v_killed()
